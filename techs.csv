@@ -1,0 +1,4 @@
+idx,capacity,fixedCost,runningCost,cruidOil,seedCake,oilInSeedCake
+T1,6000,875000,500,250,750,7.5
+T2,6000,500000,380,150,850,12.5
+T3,12000,625000,320,166,834,16

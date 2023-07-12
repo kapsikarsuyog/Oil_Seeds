@@ -8,7 +8,7 @@ This is a temporary script file.
 import pandas as pd
 from Data_Extraction.DictionaryGenerator import dictGenerator
 
-directory = "C:\\Users\\SUYOG\\Desktop\\oilseeds\\oilseeds\\Data_Files\\"
+directory = "/Users/suyogkapsikar/Suyog Computer/Optimization/oilseeds/Oil_Seeds/Data_Files/"
 inFile = pd.read_excel(directory + "distance.xlsx")
 
 places = list(inFile)

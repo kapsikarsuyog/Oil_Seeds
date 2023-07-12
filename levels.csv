@@ -1,0 +1,4 @@
+idx,capacity,fixedCost,runningCost
+low,9000,625000,445
+med,30000,1500000,415
+high,150000,6000000,400
